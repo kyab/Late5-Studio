@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>74B6BD43-AEEF-46F8-A05D-88699934B1BB</key>
+		<key>5DF0F84B-B58C-4154-AEA0-30D1D150AB39</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>74B6BD43-AEEF-46F8-A05D-88699934B1BB.xcactivitylog</string>
+			<string>5DF0F84B-B58C-4154-AEA0-30D1D150AB39.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>Late5_Studio-eedvekbpgqtrzzbacrhdkpcbahhw</string>
 			<key>timeStartedRecording</key>
-			<real>623853564.86230302</real>
+			<real>623936708.91064298</real>
 			<key>timeStoppedRecording</key>
-			<real>623853569.90718997</real>
+			<real>623936714.13071895</real>
 			<key>title</key>
 			<string>Build target Late5 Studio</string>
 			<key>uniqueIdentifier</key>
-			<string>74B6BD43-AEEF-46F8-A05D-88699934B1BB</string>
+			<string>5DF0F84B-B58C-4154-AEA0-30D1D150AB39</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

@@ -39,22 +39,22 @@ public:
     
     tresult PLUGIN_API beginEdit (Vst::ParamID id) override
     {
-        NSLog(@"beginEdit called (%d)\n", id);
+        NSLog(@"beginEdit called (%d)", id);
         return kNotImplemented;
     }
     tresult PLUGIN_API performEdit (Vst::ParamID id, Vst::ParamValue valueNormalized) override
     {
-        NSLog(@"performEdit called (%d, %f)\n", id, valueNormalized);
+//        NSLog(@"performEdit called (%d, %f)", id, valueNormalized);
         return kNotImplemented;
     }
     tresult PLUGIN_API endEdit (Vst::ParamID id) override
     {
-        NSLog(@"endEdit called (%d)\n", id);
+        NSLog(@"endEdit called (%d)", id);
         return kNotImplemented;
     }
     tresult PLUGIN_API restartComponent (int32 flags) override
     {
-        NSLog(@"restartComponent called (%d)\n", flags);
+        NSLog(@"restartComponent called (%d)", flags);
         return kNotImplemented;
     }
     
@@ -111,7 +111,7 @@ protected:
 //class Message : public IMassage(){
 //public:
 //    Message();
-//    
+//
 //}
 
 }

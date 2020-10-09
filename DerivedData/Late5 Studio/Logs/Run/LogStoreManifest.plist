@@ -958,6 +958,40 @@
 			<key>uniqueIdentifier</key>
 			<string>201AA64D-6799-414B-A8EB-7CB920CDAFA5</string>
 		</dict>
+		<key>232E27C4-CC86-4D4A-B6A6-FF4E6824400F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>232E27C4-CC86-4D4A-B6A6-FF4E6824400F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Late5 Studio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Late5 Studio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Late5 Studio</string>
+			<key>timeStartedRecording</key>
+			<real>623936376.77066696</real>
+			<key>timeStoppedRecording</key>
+			<real>623936707.59793198</real>
+			<key>title</key>
+			<string>Run Late5 Studio</string>
+			<key>uniqueIdentifier</key>
+			<string>232E27C4-CC86-4D4A-B6A6-FF4E6824400F</string>
+		</dict>
 		<key>25A14F28-2FAD-42A6-9C3A-977161A17387</key>
 		<dict>
 			<key>className</key>
@@ -1093,6 +1127,40 @@
 			<string>Run Late5 Studio</string>
 			<key>uniqueIdentifier</key>
 			<string>29A52AAA-DBF7-4650-B911-3364D2EDC085</string>
+		</dict>
+		<key>2BEBA559-760A-40E5-A314-8AD9968D38BF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2BEBA559-760A-40E5-A314-8AD9968D38BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Late5 Studio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Late5 Studio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Late5 Studio</string>
+			<key>timeStartedRecording</key>
+			<real>623932482.36312795</real>
+			<key>timeStoppedRecording</key>
+			<real>623932532.96080601</real>
+			<key>title</key>
+			<string>Run Late5 Studio</string>
+			<key>uniqueIdentifier</key>
+			<string>2BEBA559-760A-40E5-A314-8AD9968D38BF</string>
 		</dict>
 		<key>2C42C91A-D1AA-4846-861A-DA543641475F</key>
 		<dict>
@@ -1434,6 +1502,40 @@
 			<key>uniqueIdentifier</key>
 			<string>37C97224-534D-4DB3-8706-360CEDB78F74</string>
 		</dict>
+		<key>39F27FFF-A372-48F0-89FD-00AF008A88BA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>39F27FFF-A372-48F0-89FD-00AF008A88BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Late5 Studio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Late5 Studio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Late5 Studio</string>
+			<key>timeStartedRecording</key>
+			<real>623932309.07568705</real>
+			<key>timeStoppedRecording</key>
+			<real>623932354.87688005</real>
+			<key>title</key>
+			<string>Run Late5 Studio</string>
+			<key>uniqueIdentifier</key>
+			<string>39F27FFF-A372-48F0-89FD-00AF008A88BA</string>
+		</dict>
 		<key>3A64A846-961F-47C3-92ED-093C41C5D9BF</key>
 		<dict>
 			<key>className</key>
@@ -1671,6 +1773,40 @@
 			<string>Run Late5 Studio</string>
 			<key>uniqueIdentifier</key>
 			<string>3EED5353-860A-4344-92E2-A6C18519901A</string>
+		</dict>
+		<key>417712FE-5DE8-4DAE-9385-1841DBFAE335</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>417712FE-5DE8-4DAE-9385-1841DBFAE335.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Late5 Studio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Late5 Studio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Late5 Studio</string>
+			<key>timeStartedRecording</key>
+			<real>623932559.63846803</real>
+			<key>timeStoppedRecording</key>
+			<real>623932714.83740401</real>
+			<key>title</key>
+			<string>Run Late5 Studio</string>
+			<key>uniqueIdentifier</key>
+			<string>417712FE-5DE8-4DAE-9385-1841DBFAE335</string>
 		</dict>
 		<key>4231A463-70C6-4E4B-9092-8CBC4D01293A</key>
 		<dict>
@@ -2692,6 +2828,40 @@
 			<key>uniqueIdentifier</key>
 			<string>61C79599-3BCC-4E5C-A3BB-929ABAEDE980</string>
 		</dict>
+		<key>62A370FC-CAE8-4FEC-A235-6675944C8CCE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>62A370FC-CAE8-4FEC-A235-6675944C8CCE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Late5 Studio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Late5 Studio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Late5 Studio</string>
+			<key>timeStartedRecording</key>
+			<real>623932783.58500004</real>
+			<key>timeStoppedRecording</key>
+			<real>623932817.40246606</real>
+			<key>title</key>
+			<string>Run Late5 Studio</string>
+			<key>uniqueIdentifier</key>
+			<string>62A370FC-CAE8-4FEC-A235-6675944C8CCE</string>
+		</dict>
 		<key>62CA1F2C-B615-4B31-B320-A5DB81BE521B</key>
 		<dict>
 			<key>className</key>
@@ -3100,6 +3270,40 @@
 			<key>uniqueIdentifier</key>
 			<string>6CA6AA5E-C0A0-4C5F-A964-1E7C03036455</string>
 		</dict>
+		<key>6CE7BCAE-0CAE-495C-A64F-B3EDFC69879D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6CE7BCAE-0CAE-495C-A64F-B3EDFC69879D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Late5 Studio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Late5 Studio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Late5 Studio</string>
+			<key>timeStartedRecording</key>
+			<real>623933593.50611997</real>
+			<key>timeStoppedRecording</key>
+			<real>623933751.49958706</real>
+			<key>title</key>
+			<string>Run Late5 Studio</string>
+			<key>uniqueIdentifier</key>
+			<string>6CE7BCAE-0CAE-495C-A64F-B3EDFC69879D</string>
+		</dict>
 		<key>6D057F65-D38F-490A-8A05-A2FA33B57D75</key>
 		<dict>
 			<key>className</key>
@@ -3201,6 +3405,40 @@
 			<string>Run Late5 Studio</string>
 			<key>uniqueIdentifier</key>
 			<string>6D682C9B-C437-48E0-B001-1872592BBD70</string>
+		</dict>
+		<key>6E3C8018-2BA2-4E20-87EF-912317980E77</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6E3C8018-2BA2-4E20-87EF-912317980E77.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Late5 Studio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Late5 Studio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Late5 Studio</string>
+			<key>timeStartedRecording</key>
+			<real>623932993.58379197</real>
+			<key>timeStoppedRecording</key>
+			<real>623933223.649912</real>
+			<key>title</key>
+			<string>Run Late5 Studio</string>
+			<key>uniqueIdentifier</key>
+			<string>6E3C8018-2BA2-4E20-87EF-912317980E77</string>
 		</dict>
 		<key>705F8D6E-60EB-41EB-93EE-6DE12C2881E0</key>
 		<dict>
@@ -3711,6 +3949,40 @@
 			<string>Run Late5 Studio</string>
 			<key>uniqueIdentifier</key>
 			<string>80FABA6E-670D-4474-B020-3A15E3C61352</string>
+		</dict>
+		<key>817DEA5F-02BA-48F0-B743-1B827DF182FF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>817DEA5F-02BA-48F0-B743-1B827DF182FF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Late5 Studio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Late5 Studio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Late5 Studio</string>
+			<key>timeStartedRecording</key>
+			<real>623932179.01500905</real>
+			<key>timeStoppedRecording</key>
+			<real>623932232.69150698</real>
+			<key>title</key>
+			<string>Run Late5 Studio</string>
+			<key>uniqueIdentifier</key>
+			<string>817DEA5F-02BA-48F0-B743-1B827DF182FF</string>
 		</dict>
 		<key>820FC352-52C8-411A-96DD-D16CC56F192C</key>
 		<dict>
@@ -4392,6 +4664,40 @@
 			<key>uniqueIdentifier</key>
 			<string>94C51FB6-E845-40A7-B451-96AF8ED515CB</string>
 		</dict>
+		<key>970349CF-3768-427C-9BA7-1FB77AE58491</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>970349CF-3768-427C-9BA7-1FB77AE58491.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Late5 Studio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Late5 Studio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Late5 Studio</string>
+			<key>timeStartedRecording</key>
+			<real>623854212.85566998</real>
+			<key>timeStoppedRecording</key>
+			<real>623920643.91903698</real>
+			<key>title</key>
+			<string>Run Late5 Studio</string>
+			<key>uniqueIdentifier</key>
+			<string>970349CF-3768-427C-9BA7-1FB77AE58491</string>
+		</dict>
 		<key>9806AA95-4886-40EB-9F2C-FB6226C5FE26</key>
 		<dict>
 			<key>className</key>
@@ -4562,6 +4868,40 @@
 			<key>uniqueIdentifier</key>
 			<string>A002FD0B-60D4-4F77-B77C-8702DD46D270</string>
 		</dict>
+		<key>A05E390B-A2C0-43B2-9A70-1E5EF47245BB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A05E390B-A2C0-43B2-9A70-1E5EF47245BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Late5 Studio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Late5 Studio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Late5 Studio</string>
+			<key>timeStartedRecording</key>
+			<real>623933246.88595605</real>
+			<key>timeStoppedRecording</key>
+			<real>623933554.20183599</real>
+			<key>title</key>
+			<string>Run Late5 Studio</string>
+			<key>uniqueIdentifier</key>
+			<string>A05E390B-A2C0-43B2-9A70-1E5EF47245BB</string>
+		</dict>
 		<key>A1836796-605A-42BF-8A8A-1AF02E246432</key>
 		<dict>
 			<key>className</key>
@@ -4731,6 +5071,40 @@
 			<string>Run Late5 Studio</string>
 			<key>uniqueIdentifier</key>
 			<string>A4823A32-5141-4148-A43A-FD5F1A612F11</string>
+		</dict>
+		<key>A67C18FB-6B2C-4812-8540-3FF70AD8ADED</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A67C18FB-6B2C-4812-8540-3FF70AD8ADED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Late5 Studio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Late5 Studio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Late5 Studio</string>
+			<key>timeStartedRecording</key>
+			<real>623932829.32613504</real>
+			<key>timeStoppedRecording</key>
+			<real>623932985.53869998</real>
+			<key>title</key>
+			<string>Run Late5 Studio</string>
+			<key>uniqueIdentifier</key>
+			<string>A67C18FB-6B2C-4812-8540-3FF70AD8ADED</string>
 		</dict>
 		<key>A7959E2E-54EC-4031-9A28-1B3FCECB8E56</key>
 		<dict>
@@ -5446,6 +5820,40 @@
 			<key>uniqueIdentifier</key>
 			<string>C14AD4E6-2D69-4B42-BCE9-836DBEA0ECDB</string>
 		</dict>
+		<key>C33996A8-242B-416D-ABBE-4C97EBBF3D5D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C33996A8-242B-416D-ABBE-4C97EBBF3D5D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Late5 Studio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Late5 Studio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Late5 Studio</string>
+			<key>timeStartedRecording</key>
+			<real>623936244.48343599</real>
+			<key>timeStoppedRecording</key>
+			<real>623936360.40417099</real>
+			<key>title</key>
+			<string>Run Late5 Studio</string>
+			<key>uniqueIdentifier</key>
+			<string>C33996A8-242B-416D-ABBE-4C97EBBF3D5D</string>
+		</dict>
 		<key>C3677630-959F-4C47-ABC1-8551237EFA8C</key>
 		<dict>
 			<key>className</key>
@@ -5853,6 +6261,40 @@
 			<string>Run Late5 Studio</string>
 			<key>uniqueIdentifier</key>
 			<string>D09AB9D2-23BD-4794-97AF-268ED5B9E9BB</string>
+		</dict>
+		<key>D101EFC0-510E-4C62-9C61-3684A2AA5DB1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D101EFC0-510E-4C62-9C61-3684A2AA5DB1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Late5 Studio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Late5 Studio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Late5 Studio</string>
+			<key>timeStartedRecording</key>
+			<real>623932737.23958099</real>
+			<key>timeStoppedRecording</key>
+			<real>623932773.59914196</real>
+			<key>title</key>
+			<string>Run Late5 Studio</string>
+			<key>uniqueIdentifier</key>
+			<string>D101EFC0-510E-4C62-9C61-3684A2AA5DB1</string>
 		</dict>
 		<key>D131801C-2294-44F4-9B58-C8C3B1B4D221</key>
 		<dict>
